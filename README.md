@@ -8,7 +8,7 @@ El horario del FabLab es en principio de 10:00 a 19:00.
 
 Sin embargo, el horario de accesibilidad esta ligado a que este un responsable del lab y a la disponibilidad del espacio, es decir, que el espacio no este reservado para clases o eventos.
 
-Para ver la disponibilidad del espacio visitar el siguiente calendario: Calendario
+Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calendario](https://calendar.google.com/calendar/embedsrc=esne.es_8h9a1brq3vm12neeqmqcrq1mgo%40group.calendar.google.com&ctz=Europe%2FMadrid)
 
 # Normas de uso
 
