@@ -26,3 +26,6 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 - Todo proyecto realizado en el fablab debe generar una documentación correspondiente.
 - En el fablab no se guardan proyectos.
 - El personal del fablab se reserva el derecho de tirar algún proyecto.
+- Los archivos descargados a los ordenadores deberan colocarse de manera ordenada dentro de la carpeta Compartida Profesor.
+- Cualquier archivo fuera de esta carpeta puede ser borrado sin previo aviso
+- Se recomienda utilizar el navegador en modo incognito para evitar dejar cuentas abiertas
