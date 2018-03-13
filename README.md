@@ -39,7 +39,7 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 - Las máquinas deben funcionar en el horario establecido bajo la vigilancia de los participantes del proyecto. Debe evitarse dejar proyectos fabricándose fuera del horario establecido sin aprobación del personal.
 - El personal se reserva el derecho a quitar un trabajo si no esta supervisado, si no se ha reservado la máquina o si lo considera oportuno.
 
-<h2 id="ordenadores">Uso de los ordenadores</h3>
+<h3 id="ordenadores">Uso de los ordenadores</h3>
 
 - Los archivos descargados a los ordenadores deberan colocarse de manera ordenada dentro de la carpeta Compartida Profesor.
 - El orden de los archivos debe ser carpeta profesor/ carrera / nomebre estudiante o proyecto. Caundo estos archivos no sean necesarios, los dueños deberan borrarse.
@@ -50,8 +50,8 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 
 Para contactar al fablab puedes escribir a fablab@esne.es, o al personal siguiente:
 
-- Javier Sanz, Director de Grado de Producto
-- Javier Villarroel, Responsable Coordinador del FabLab
+- Javier Sanz (javier.sanz@esne.es), Director de Grado de Producto 
+- Javier Villarroel (javier.villarroel@esne.es), Responsable Coordinador del FabLab
 - Pablo Pastor, Personal del Fablab
 - Alma
 - Javier Gonzales
