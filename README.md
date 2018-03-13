@@ -1,6 +1,6 @@
 # Documentacion-Fablab
 
-En este WIKI se comparte la documentación del Fablab ESNE. Información sobre las normas de uso del fablab, documentación sobre las maquinas, recomendaciones para el proceso de fabricación de cada máquina, tips para la creación de archivos, recomendación de materiales, diseños y documentación de proyectos.
+En repositori se comparte la documentación del Fablab ESNE. Esto es información sobre las normas del fablab, documentación sobre las maquinas, instrucciones y recomendaciones para el proceso de fabricación de cada máquina, tips para la preparación de los archivos, información sobre materiales, diseños y proyectos.
 
 ## Horario de accesibilidad
 
