@@ -2,7 +2,14 @@
 
 En repositori se comparte la documentación del Fablab ESNE. Esto es información sobre las normas del fablab, documentación sobre las maquinas, instrucciones y recomendaciones para el proceso de fabricación de cada máquina, tips para la preparación de los archivos, información sobre materiales, diseños y proyectos.
 
-## Horario de accesibilidad
+*   [Horario del FabLab](#horario)
+*   [Normas del FabLab](#normas)
+    *   [Uso general del espacio](#espacio)
+    *   [Uso de las maquinas y herramientas](#maquinas)
+    *   [Uso de los ordenadores](#ordenadores)
+*   [Contacto](#contacto)
+
+<h2 id="horario">Horario del Fablab</h3>
 
 El horario del FabLab es en principio de 10:00 a 19:00.
 
@@ -10,9 +17,9 @@ Sin embargo, el horario de accesibilidad esta ligado a que este un responsable d
 
 Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calendario](https://calendar.google.com/calendar/embed?src=esne.es_8h9a1brq3vm12neeqmqcrq1mgo%40group.calendar.google.com&ctz=Europe%2FMadrid)
 
-## Normas del FabLab
+<h2 id="normas">Normas del FabLab</h2>
 
-### Uso general del espacio
+<h3 id="espacio">Uso general del espacio</h3>
 
 - El uso del fablab está limitado a los profesores, estudiantes y staff de la institución que han recibido la capacitación mínima requerida.
 - El uso del fablab está limitado al horario establecido de 10:00 a 19:00, dependiendo de la disponibilidad del personal y del espacio. Consultar el [calendario](https://calendar.google.com/calendar/embed?src=esne.es_8h9a1brq3vm12neeqmqcrq1mgo%40group.calendar.google.com&ctz=Europe%2FMadrid)
@@ -23,7 +30,7 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 - El personal del fablab se reserva el derecho de tirar algún proyecto.
 - Todo proyecto realizado en el fablab debe generar una documentación correspondiente. Para esto se creara un formulario online próximamente
 
-### Uso de las maquinas y herramientas
+<h3 id="maquinas">Uso de las maquinas y herramientas</h3>
 
 - El uso de las herramientas manuales debe ser limitado a los espacios correspondientes y estas deben ser colocadas en sus respectivos sitios una vez utilizadas.
 - Las máquinas y herramientas deben ser utilizadas tomando en cuenta las normas de seguridad de cada caso, tales como el uso de guantes, gafas o máscaras, cuando se indique.
@@ -32,9 +39,20 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 - Las máquinas deben funcionar en el horario establecido bajo la vigilancia de los participantes del proyecto. Debe evitarse dejar proyectos fabricándose fuera del horario establecido sin aprobación del personal.
 - El personal se reserva el derecho a quitar un trabajo si no esta supervisado, si no se ha reservado la máquina o si lo considera oportuno.
 
-### Uso de los ordenadores
+<h2 id="ordenadores">Uso de los ordenadores</h3>
 
 - Los archivos descargados a los ordenadores deberan colocarse de manera ordenada dentro de la carpeta Compartida Profesor.
 - El orden de los archivos debe ser carpeta profesor/ carrera / nomebre estudiante o proyecto. Caundo estos archivos no sean necesarios, los dueños deberan borrarse.
 - Cualquier archivo fuera de esta organización puede ser borrado sin previo aviso.
 - Se recomienda utilizar el navegador en modo incognito para evitar dejar cuentas personales abiertas
+
+<h2 id="contacto">Parsonal</h2>
+
+Para contactar al fablab puedes escribir a fablab@esne.es, o al personal siguiente:
+
+- Javier Sanz, Director de Grado de Producto
+- Javier Villarroel, Responsable Coordinador del FabLab
+- Pablo Pastor, Personal del Fablab
+- Alma
+- Javier Gonzales
+- Sara 
