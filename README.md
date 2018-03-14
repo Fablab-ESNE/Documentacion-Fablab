@@ -9,6 +9,13 @@ En repositori se comparte la documentación del Fablab ESNE. Esto es informació
     *   [Uso de los ordenadores](#ordenadores)
 *   [Contacto](#contacto)
 
+Para más información sobre las tecnologias usadas en el Fablab, consultar:
+
+*   [Corte Láser](CorteLaser/)
+*   [Impresión 3D](Impresion3D/)
+
+
+
 <h2 id="horario">Horario del Fablab</h3>
 
 El horario del FabLab es en principio de 10:00 a 19:00.
@@ -46,13 +53,14 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 - Cualquier archivo fuera de esta organización puede ser borrado sin previo aviso.
 - Se recomienda utilizar el navegador en modo incognito para evitar dejar cuentas personales abiertas
 
-<h2 id="contacto">Parsonal</h2>
+<h2 id="contacto">Contacto</h2>
 
 Para contactar al fablab puedes escribir a fablab@esne.es, o al personal siguiente:
 
 - Javier Sanz (javier.sanz@esne.es), Director de Grado de Producto 
 - Javier Villarroel (javier.villarroel@esne.es), Responsable Coordinador del FabLab
+- Jesus 
 - Pablo Pastor, Personal del Fablab
-- Alma
+- Alma Lumut
 - Javier Gonzales
 - Sara 

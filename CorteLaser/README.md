@@ -10,12 +10,11 @@
 
 <h2 id="maquina">Uso de la máquina</h2>
 
-
-
 - Encender la extracción de aire
 - Encender el compresor de aire
 - Encender la enfriadora de agua
 - Encender la cortadora
+
 
 - Importar el archivo DXF
 - Revisar la colocación y el tamaño del diseño
@@ -28,6 +27,7 @@
 	- Azul = Corte externo
 - Asignar los valores de potencia y velocidad para el material designado
 - Enviar el corte a la láser
+
 
 - Colocar y alinear el material
 - Enfocar el láser al espesor del material
@@ -42,13 +42,19 @@
 Indicaciónes para cortar en láser
 
 - Usar un programa vectorial
-- Serciorarse que las curvas cerradas están cerradas
+- Cerciorarse que las curvas cerradas están cerradas
 - Trabajar el diseño al tamaño real que se va a cortar
 - Evitar que dos lineas se superpongan, ya que el láser las cortara dos veces, oscurenciendo el material y creando la posibilidad de fuego
+- Convertir todo el textos en curvas
+
+
 - Exportar el archivo en el formato .DXF
 - Al exportar colocar la opción 1 Pulgada = 1 Unidad
 
+
 <h2 id="seguridad">Seguridad</h2>
+
+IMPORTANTE: El corte láser es una máquina peligrosa, nunca se debe dejar desatendida
 
 <h2 id="normas">Materiales</h2>
 
