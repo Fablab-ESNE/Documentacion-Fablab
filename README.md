@@ -1,6 +1,10 @@
 # Documentacion-Fablab
 
-En repositori se comparte la documentación del Fablab ESNE. Esto es información sobre las normas del fablab, documentación sobre las maquinas, instrucciones y recomendaciones para el proceso de fabricación de cada máquina, tips para la preparación de los archivos, información sobre materiales, diseños y proyectos.
+Nota: Este sitio esta en progreso de construcción en este momento. Puede que la información cambie en cada momento. Cualquier pregunta comentario o sugerencia [contactarnos](#contacto).
+
+En repositorio se comparte la documentación del Fablab ESNE. Esto es información sobre las normas del fablab, documentación sobre las maquinas, instrucciones y recomendaciones para el proceso de fabricación de cada máquina, tips para la preparación de los archivos, información sobre materiales, diseños y proyectos.
+
+
 
 *   [Horario del FabLab](#horario)
 *   [Normas del FabLab](#normas)
