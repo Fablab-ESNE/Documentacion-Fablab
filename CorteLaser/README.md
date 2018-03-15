@@ -63,9 +63,26 @@ Cualquier material que no se sepa su composición, se asume peligroso y no se co
 
 
 
+Maderas
 
+| Material | Estrategia | Espesor | Velocidad | Potencia | Potencia Corner | Pasadas | Observacion |
+| :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |  
+|DM|Corte|3 mm|35-55|95|90|1||
+|DM|Marcado|3 mm|35-55|95|90|1||
+|DM|Marcado|3 mm|90|20|15|1||
 
+Plásticos
 
+| Material | Estrategia | Espesor | Velocidad | Potencia | Potencia Corner | Pasadas | Observacion |
+| :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |  
+|Metacrilato|Corte|3 mm|35|95|90|1||
+|Metacrilato|Marcado|3 mm|100|10|6|1||
+|Metacrilato|Corte|4 mm|17|20|15|1||
+|Metacrilato|Marcado|4 mm|100|20|15|1||
+|Metacrilato|Corte|5 mm|17|95|90|1||
+|Metacrilato|Marcado|5 mm|100|10|6|1||
 
+Papel - Cartón
 
+Telas
 
