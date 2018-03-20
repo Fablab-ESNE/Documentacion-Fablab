@@ -53,18 +53,18 @@ Para ver la disponibilidad del espacio visitar el siguiente calendario: [Calenda
 <h3 id="ordenadores">Uso de los ordenadores</h3>
 
 - Los archivos descargados a los ordenadores deberan colocarse de manera ordenada dentro de la carpeta Compartida Profesor.
-- El orden de los archivos debe ser carpeta profesor/ carrera / nomebre estudiante o proyecto. Caundo estos archivos no sean necesarios, los dueños deberan borrarse.
+- El orden de los archivos debe ser carpeta profesor/ carrera / nombre estudiante o proyecto / archivo. Cuando estos archivos no sean necesarios, deberan ser borrardos.
 - Cualquier archivo fuera de esta organización puede ser borrado sin previo aviso.
-- Se recomienda utilizar el navegador en modo incognito para evitar dejar cuentas personales abiertas
+- Se recomienda utilizar el navegador en modo incognito para evitar dejar rastros de cuentas personales
 
 <h2 id="contacto">Contacto</h2>
 
 Para contactar al fablab puedes escribir a fablab@esne.es, o al personal siguiente:
 
 - Javier Sanz (javier.sanz@esne.es), Director de Grado de Producto 
-- Javier Villarroel (javier.villarroel@esne.es), Responsable Coordinador del FabLab
-- Jesus 
-- Pablo Pastor, Personal del Fablab
+- Javier Villarroel (javier.villarroel@esne.es), Responsable Coordinador del FabLab (RESERVAS)
+- Jesús López de los Mozos (jesus.lopez@esne.es)  
+- Pablo Pastor (pablopastorgarcia@gmail.com)  (RESERVAS)
 - Alma Lumut
 - Javier Gonzales
 - Sara 
