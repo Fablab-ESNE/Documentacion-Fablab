@@ -8,6 +8,29 @@
 
 <h2 id="tec">Tecnología</h2>
 
+
+<h2 id="archivo">Preparación del archivo</h2>
+
+Indicaciónes para cortar en láser
+
+- Usar un programa vectorial (Illustrator, Autocad, Rhino, DraftSight, etc).
+- Usar una hoja del tamaño de la mesa (1100 x 800 mm) Revisar.
+- Usar el siguiente nomenclaturra de colores
+	- Referencia:	Amarillo (RGB 255,255,0)
+	- Grabado:	Negro (RGB 0,0,0)
+	- Marcado:	Rojo (RGB 255,0,0)
+	- Corte interno:	Verde (RGB 0,255,0)
+	- Corte interno 2:	Cyan (RGB 255,0,0)
+	- Corte externo:	Azul (RGB 0,0,255)
+- Trabajar el diseño al tamaño real que se va a cortar.
+- Evitar que dos lineas se superpongan, ya que el láser las cortara dos veces, oscurenciendo el material y creando la posibilidad de fuego
+- Convertir todo el textos a curvas.
+
+
+- Exportar el archivo en el formato .DXF
+- Al exportar colocar la opción 1 Pulgada = 1 Unidad
+
+
 <h2 id="maquina">Uso de la máquina</h2>
 
 - Encender la extracción de aire
@@ -37,24 +60,15 @@
 
 
 
-<h2 id="archivo">Preparación del archivo</h2>
 
-Indicaciónes para cortar en láser
-
-- Usar un programa vectorial
-- Cerciorarse que las curvas cerradas están cerradas
-- Trabajar el diseño al tamaño real que se va a cortar
-- Evitar que dos lineas se superpongan, ya que el láser las cortara dos veces, oscurenciendo el material y creando la posibilidad de fuego
-- Convertir todo el textos en curvas
-
-
-- Exportar el archivo en el formato .DXF
-- Al exportar colocar la opción 1 Pulgada = 1 Unidad
 
 
 <h2 id="seguridad">Seguridad</h2>
 
 IMPORTANTE: El corte láser es una máquina peligrosa, nunca se debe dejar desatendida
+
+
+
 
 <h2 id="normas">Materiales</h2>
 
