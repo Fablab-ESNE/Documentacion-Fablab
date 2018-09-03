@@ -23,12 +23,13 @@ Indicaciónes para cortar en láser
 	- Corte interno 2:	Cyan (RGB 255,0,0)
 	- Corte externo:	Azul (RGB 0,0,255)
 - Trabajar el diseño al tamaño real que se va a cortar.
-- Evitar que dos lineas se superpongan, ya que el láser las cortara dos veces, oscurenciendo el material y creando la posibilidad de fuego
+- Colocar el tamaño del material con una linea de referencia
+- Siempre dejar un margen de min 5mm entre el material y las geometrías a cortar.
+- La separación mínima entre geometrías debe ser de 3 mm.
+- Nunca superponer dos lineas.
 - Convertir todo el textos a curvas.
-
-
 - Exportar el archivo en el formato .DXF
-- Al exportar colocar la opción 1 Pulgada = 1 Unidad
+- Al exportar colocar la opción 1 Pulgada = 1 Unidad.
 
 
 <h2 id="maquina">Uso de la máquina</h2>
