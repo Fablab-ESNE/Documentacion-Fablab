@@ -74,13 +74,13 @@ El acceso a las demás tecnologías está restringido al staff (otras impresoras
 
 En situaciones especiales los estudiantes pueden utilizar las tecnologías restringidas, cuando están en una clase para ese fin o cuando realicen un proyecto autorizado y estén capacitados para usar esa tecnología.
 
-</h3>Espacios</h3>
+<h3>Espacios</h3>
 
 El laboratorio está abierto al público de 10 a 19 horas y es accesible cuando no hay alguna clase o evento programado. 
 
 El taller solo está abierto al público en el horario de disponibilidad del Staff en ese espacio. La llave del espacio, solo se entregará al staff autorizado o al profesor que será responsable de dicho espacio
  
-</h3>Profesores</h3>
+<h3>Profesores</h3>
 
 Deben ser conscientes de:
 
