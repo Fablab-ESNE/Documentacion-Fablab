@@ -63,6 +63,9 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 - Cualquier archivo fuera de esta organización puede ser borrado sin previo aviso.
 - Se recomienda utilizar el navegador en modo incognito para evitar dejar rastros de cuentas personales, el Fablab no se hace responsable por las cuentas personales que se dejen abiertas.
 
+<h3 id="basuras">Gestión de la Basura</h3>
+
+
 
 <h2 id="ordenadores">Protocolo a seguir para utilizar el servicio del FabLab</h2>
 
