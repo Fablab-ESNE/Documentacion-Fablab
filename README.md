@@ -10,6 +10,7 @@ En este repositorio se comparte la documentación del Fablab de ESNE. Esto es in
     *   [Uso general del espacio](#espacio)
     *   [Uso de las maquinas y herramientas](#maquinas)
     *   [Uso de los ordenadores](#ordenadores)
+*   [Protocolo](#protocolo)    
 *   [Contacto](#contacto)
 
 Para más información sobre las tecnologias usadas en el Fablab, consultar:
@@ -61,6 +62,36 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 - El orden de los archivos debe ser carpeta profesor/ carrera / nombre estudiante o proyecto / archivo. Cuando estos archivos no sean necesarios, deberan ser borrardos.
 - Cualquier archivo fuera de esta organización puede ser borrado sin previo aviso.
 - Se recomienda utilizar el navegador en modo incognito para evitar dejar rastros de cuentas personales, el Fablab no se hace responsable por las cuentas personales que se dejen abiertas.
+
+
+<h2 id="ordenadores">Protocolo a seguir para utilizar el servicio del FabLab</h2>
+
+Importante: En el fablab no se realizan proyectos en el acto, los estudiantes deben organizarse con suficiente tiempo de antelación de cara a sus entregas.
+
+Los estudiantes tienen acceso a las impresoras Up, previa corroboración y aceptación de algún miembro del Fablab, del archivo que debe estar según las recomendaciones y normativa de la web.
+
+El acceso a las demás tecnologías está restringido al staff (otras impresoras, corte láser, corte vinilo, fresadoras). Los usuarios deben enviar el archivo al correo fablab@gmail.com. Este archivo será revisado según las recomendaciones de la web. Si el archivo se aprueba, se informa al estudiante el presupuesto  y cuándo podrá pasar a recogerlo (mínimo 1 día). Se ha de tener en cuenta que los correos son revisados 2 veces al día y que el tiempo utilizado para estos servicios oscilará entre 2 y 4 horas al día.
+
+En situaciones especiales los estudiantes pueden utilizar las tecnologías restringidas, cuando están en una clase para ese fin o cuando realicen un proyecto autorizado y estén capacitados para usar esa tecnología.
+
+</h3>Espacios</h3>
+
+El laboratorio está abierto al público de 10 a 19 horas y es accesible cuando no hay alguna clase o evento programado. 
+
+El taller solo está abierto al público en el horario de disponibilidad del Staff en ese espacio. La llave del espacio, solo se entregará al staff autorizado o al profesor que será responsable de dicho espacio
+ 
+</h3>Profesores</h3>
+
+Deben ser conscientes de:
+
+- se debe evitar impulsar los proyectos que utilicen el fablab a estudiantes que no hayan recibido la formación necesaria. 
+
+- Se debe estimar el tiempo que pueden necesitar los proyectos.
+
+- Los proyectos de final de grado que necesiten el uso del fablab, deben ser comunicados por escrito al inicio del proyecto, no se aceptarán proyectos en las últimas semanas del semestre que no se organizaron con el fablab con suficiente antelación.
+
+
+
 
 <h2 id="contacto">Contacto</h2>
 
