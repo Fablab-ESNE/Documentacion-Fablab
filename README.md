@@ -99,8 +99,6 @@ Los espacios tienen limite de aforo. El laboratorio dispone de 36 asientos y 18 
 
 <h2 id="contacto">Contacto</h2>
 
-Para contactar al fablab puedes escribir a fablab@esne.es, o al personal siguiente:
+fablab@esne.es
 
-- Javier Villarroel (javier.villarroel@esne.es), Responsable Coordinador del FabLab (RESERVAS)
-- Jesús López de los Mozos (jesus.lopez@esne.es), Coordinador el grado de Producto  
-- Pablo Pastor (pablopastorgarcia@gmail.com)  (RESERVAS)
+
