@@ -94,7 +94,9 @@ Los profesores deben estar conscientes del proceso de fabricación, evitando ace
 
 Los proyectos de final de grado que necesiten el uso del fablab, deben ser comunicados por escrito al inicio del proyecto, no se aceptarán proyectos en las últimas semanas del semestre que no se organizaron con el fablab con suficiente antelación.
 
-Los espacios tienen limite de aforo. El laboratorio dispone de 36 asientos y 18 ordenadores. El espacio taller es más limitado, permite trabajar comodamente con hasta 10 personas.
+Los espacios tienen limite de aforo. 
+El laboratorio dispone de 36 asientos y 18 ordenadores. Los asientos son bancos de taller, siendo incomdos por tiempo prolongado
+El espacio taller es más limitado, permite trabajar comodamente con hasta 10 personas.
 
 
 <h2 id="contacto">Contacto</h2>
