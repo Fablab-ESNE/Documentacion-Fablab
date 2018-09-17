@@ -66,7 +66,11 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 Las papeleras estan indicadas exclusivamente para el material residual del Fablab, la basura que no es de este tipo debe ser tirada fuera de los espacios, por ejemplo cualquier envase o bolsa de comida.
 
 En el taller hay tres contenedores:
-Amarillo: Plasticos (
+Amarillo: Plásticos (excepto envases)
+Azul: Papel sin restos de otros materiales
+Verde: Madera sin restos de otros materiales
+
+
 
 <h2 id="ordenadores">Protocolo a seguir para utilizar el servicio del FabLab</h2>
 
