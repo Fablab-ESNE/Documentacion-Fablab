@@ -43,8 +43,7 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 - El uso del Fablab está destinado a proyectos relacionados con la actividad que se ejerce en la institución.
 - Por seguridad e higiene se prohibe comer y/o beber dentro del área del FabLab.
 - La comunidad del Fablab (estudiantes, profesores y staff) deben mantener el orden y la limpieza de los espacios.
-- En el Fablab no se guardan proyectos.
-- El personal del fablab se reserva el derecho de tirar algún proyecto.
+- En el Fablab no se guardan proyectos. El personal del fablab se reserva el derecho de tirar algún proyecto que no esta autorizado.
 
 
 <h3 id="maquinas">Uso de las maquinas y herramientas</h3>
@@ -52,8 +51,7 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 - El uso de las herramientas manuales debe ser limitado a los espacios correspondientes y estas deben ser colocadas en sus respectivos sitios una vez utilizadas.
 - Las máquinas y herramientas deben ser utilizadas tomando en cuenta las normas de seguridad en cada caso, tales como el uso de guantes, gafas o máscaras, cuando este indicado.
 - El uso de las máquinas debe ser previamente reservado con el personal del FabLab.
-- El material de la institución está destinado a estas actividades. 
-- Las máquinas deben funcionar en el horario establecido bajo la vigilancia de los participantes del proyecto. Debe evitarse dejar proyectos fabricándose fuera del horario establecido sin aprobación del personal o sin supervisión.
+- Las máquinas deben funcionar en el horario establecido bajo la vigilancia de los participantes del proyecto.
 - El personal se reserva el derecho de quitar un trabajo si no esta supervisado, si no se ha reservado la máquina o si lo considera oportuno.
 
 <h3 id="ordenadores">Uso de los ordenadores</h3>
@@ -65,7 +63,10 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 
 <h3 id="basuras">Gestión de la Basura</h3>
 
+Las papeleras estan indicadas exclusivamente para el material residual del Fablab, la basura que no es de este tipo debe ser tirada fuera de los espacios, por ejemplo cualquier envase o bolsa de comida.
 
+En el taller hay tres contenedores:
+Amarillo: Plasticos (
 
 <h2 id="ordenadores">Protocolo a seguir para utilizar el servicio del FabLab</h2>
 
@@ -88,6 +89,8 @@ El taller solo está abierto al público en el horario de disponibilidad del Sta
 Los profesores deben estar conscientes del proceso de fabricación, evitando aceptar propuestas de estudiantes que no han recibido la formación necesaria.
 
 Los proyectos de final de grado que necesiten el uso del fablab, deben ser comunicados por escrito al inicio del proyecto, no se aceptarán proyectos en las últimas semanas del semestre que no se organizaron con el fablab con suficiente antelación.
+
+Los espacios tienen limite de aforo. El laboratorio dispone de 36 asientos y 18 ordenadores. El espacio taller es más limitado, permite trabajar comodamente con hasta 10 personas.
 
 
 <h2 id="contacto">Contacto</h2>
