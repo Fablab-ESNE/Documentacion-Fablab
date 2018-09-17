@@ -39,7 +39,7 @@ Para ver la disponibilidad visitar el siguiente calendario: [Calendario](https:/
 - El uso del fablab está limitado a los profesores, estudiantes y staff de la institución que han recibido la capacitación mínima requerida.
 
 - El uso del Fablab-Laboratorio está limitado al horario establecido de 10:00 a 19:00, dependiendo de la disponibilidad del personal y del espacio. Consultar el [calendario](https://calendar.google.com/calendar/embed?src=esne.es_8h9a1brq3vm12neeqmqcrq1mgo%40group.calendar.google.com&ctz=Europe%2FMadrid)
-- Para usar el Fablab-Taller es necesario que un responsable pida la llave. Solo profesores, staff y las personas autorizadas pueden pedir la llave.
+- El Fablab-Taller solo estara disponible cuando un persona autorizada este es necesario que un responsable pida la llave. Solo profesores, staff y las personas autorizadas pueden pedir la llave.
 - El uso del Fablab está destinado a proyectos relacionados con la actividad que se ejerce en la institución.
 - Por seguridad e higiene se prohibe comer y/o beber dentro del área del FabLab.
 - La comunidad del Fablab (estudiantes, profesores y staff) deben mantener el orden y la limpieza de los espacios.
@@ -81,19 +81,13 @@ En situaciones especiales los estudiantes pueden utilizar las tecnologías restr
 
 El laboratorio está abierto al público de 10 a 19 horas y es accesible cuando no hay alguna clase o evento programado. 
 
-El taller solo está abierto al público en el horario de disponibilidad del Staff en ese espacio. La llave del espacio, solo se entregará al staff autorizado o al profesor que será responsable de dicho espacio
+El taller solo está abierto al público en el horario de disponibilidad del Staff en ese espacio. La llave del espacio, solo se entregará al staff autorizado o al profesor que será responsable del uso adecuado de dicho espacio.
  
 <h3>Profesores</h3>
 
-Deben ser conscientes de:
+Los profesores deben estar conscientes del proceso de fabricación, evitando aceptar propuestas de estudiantes que no han recibido la formación necesaria.
 
-- se debe evitar impulsar los proyectos que utilicen el fablab a estudiantes que no hayan recibido la formación necesaria. 
-
-- Se debe estimar el tiempo que pueden necesitar los proyectos.
-
-- Los proyectos de final de grado que necesiten el uso del fablab, deben ser comunicados por escrito al inicio del proyecto, no se aceptarán proyectos en las últimas semanas del semestre que no se organizaron con el fablab con suficiente antelación.
-
-
+Los proyectos de final de grado que necesiten el uso del fablab, deben ser comunicados por escrito al inicio del proyecto, no se aceptarán proyectos en las últimas semanas del semestre que no se organizaron con el fablab con suficiente antelación.
 
 
 <h2 id="contacto">Contacto</h2>
