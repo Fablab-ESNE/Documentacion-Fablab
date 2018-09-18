@@ -89,8 +89,9 @@ El laboratorio está abierto al público de 10 a 19 horas y es accesible cuando 
 El taller solo está abierto al público en el horario de disponibilidad del Staff en ese espacio. La llave del espacio, solo se entregará al staff autorizado o al profesor que será responsable del uso adecuado de dicho espacio.
  
 <h3>Profesores</h3>
+1- Los profesores deben realizar el correspoendiente seguimiento, en los procesos de modelado bidimensional o tridimensional, de modo que la persona encargada del FABLAB, simplemente asista en los conocimientos de puesta en marcha de la maquinaria y su coreecto funcionamiento.
 
-Los profesores deben estar conscientes del proceso de fabricación, evitando aceptar propuestas de estudiantes que no han recibido la formación necesaria.
+2- Los profesores deben ser conscientes del protocolo del FabLab, habiendo impartido la información necesaria, apoyada con la información de la pagina web relativa a los protocolos de impresión, para poder agilizar la labor y la correspondiente cola de espera de los porpios alumnos.
 
 Los proyectos de final de grado que necesiten el uso del fablab, deben ser comunicados por escrito al inicio del proyecto, no se aceptarán proyectos en las últimas semanas del semestre que no se organizaron con el fablab con suficiente antelación.
 
