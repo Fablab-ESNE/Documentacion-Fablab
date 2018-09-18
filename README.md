@@ -72,7 +72,7 @@ Verde: Madera sin restos de otros materiales
 
 
 
-<h2 id="ordenadores">Protocolo a seguir para utilizar el servicio del FabLab</h2>
+<h2 id="protocolo">Protocolo a seguir para utilizar el servicio del FabLab</h2>
 
 Importante: En el fablab no se realizan proyectos en el acto, los estudiantes deben organizarse con suficiente tiempo de antelación de cara a sus entregas.
 
