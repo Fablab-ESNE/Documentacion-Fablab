@@ -125,7 +125,7 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 <h4>Corte Láser</h4>
 
 | Material |Característica| Dimensiones | Espesor | Precio | 
-| :---:  |   :---:  | :---:  | :---:  | 
+| :---:  |   :---:  | :---:  | :---:  | :---:  | 
 | Madera | DM | 600 x 500 mm^2 | 3 mm | | 
 | Madera | DM | 600 x 500 mm^2 | 3 mm | | 
 | Acrílico | Transparente | 600 x 500 mm^2 | 3 mm | | 
