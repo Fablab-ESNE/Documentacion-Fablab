@@ -103,7 +103,9 @@ El laboratorio dispone de 36 asientos y 18 ordenadores. Los asientos son bancos 
 El espacio taller es más limitado, permite trabajar comodamente con hasta 10 personas.
 
 
-<h3 id="precios">Precios del uso del Fablab</h3>
+<h3 id="precios">Precios del uso del Fablab****</h3>
+
+**** Esta por implementarse estos precios
 
 <h4>Impresión 3D</h4>
 
