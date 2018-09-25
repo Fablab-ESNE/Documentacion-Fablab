@@ -107,17 +107,19 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 
 <h4>Impresión 3D</h4>
 
-| Máquina | Material | Precio * | Tiempo ** | Mínimo | ??  |
+| Máquina | Material | Precio * | Tiempo ** | Mínimos | ??  |
 | :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  |  
-|Up|ABS|0.4 €/gr| 3 €/h |15 min|||
-|Zortrax|ABS|0.4 €/gr| 3 €/h |15 min|||
-|WASP 20/40|ABS|0.4 €/gr| 3 €/h |15 min|||
-|WASP 20/40|PLA|0.4 €/gr| 3 €/h |15 min|||
-|WASP 20/40|Arcilla|0.4 €/gr| 3 €/h |15 min|||
-|WASP 3MT|ABS|0.4 €/gr| 3 €/h |15 min|||
-|WASP 3MT|ABS|0.4 €/gr| 3 €/h |15 min|||
-|Form2+|ABS|0.4 €/gr| 3 €/h |15 min|||
+|Up|ABS|0.3 €/gr| 3 €/h | 1 €|||
+|Zortrax|ABS|0.4 €/gr| 3 €/h | 1€|||
+|WASP 20/40|ABS|0.4 €/gr| 3 €/h |1 €|||
+|WASP 20/40|PLA|0.4 €/gr| 3 €/h |1 €|||
+|WASP 20/40|Arcilla|0.4 €/gr| 3 €/h |1 €|||
+|WASP 3MT|ABS|0.4 €/gr| 3 €/h |1 €|||
+|WASP 3MT|ABS|0.4 €/gr| 3 €/h |1 €|||
+|Form2+|ABS|0.4 €/gr| 3 €/h |1 €|||
 
+* Precio de material más tiempo
+** Precio de tiempo cuando el estudiante trae su material
 
 <h2 id="contacto">Contacto</h2>
 
