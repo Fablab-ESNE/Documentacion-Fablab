@@ -108,7 +108,7 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 <h4>Impresión 3D</h4>
 
 | Máquina | Material | Tiempo | Mínimo | Máximo | Pasadas | Observacion |
-| :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |  
+| :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |  
 |Up|ABS|3 mm|0.4 €/gr| 3 €/h |15 min|||
 |Zortrax|ABS|3 mm|0.4 €/gr| 3 €/h |15 min|||
 |WASP 20/40|ABS|3 mm|0.4 €/gr| 3 €/h |15 min|||
