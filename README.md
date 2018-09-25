@@ -11,6 +11,9 @@ En este repositorio se comparte la documentación del Fablab de ESNE. Esto es in
     *   [Uso de las maquinas y herramientas](#maquinas)
     *   [Uso de los ordenadores](#ordenadores)
 *   [Protocolo](#protocolo)    
+    *   [Espacios](#espacios)
+    *   [Profesores](#Profesores)
+    *   [Precios](#precios)
 *   [Contacto](#contacto)
 
 Para más información sobre las tecnologias usadas en el Fablab, consultar:
@@ -82,13 +85,13 @@ El acceso a las demás tecnologías está restringido al staff (otras impresoras
 
 En situaciones especiales los estudiantes pueden utilizar las tecnologías restringidas, cuando están en una clase para ese fin o cuando realicen un proyecto autorizado y estén capacitados para usar esa tecnología.
 
-<h3>Espacios</h3>
+<h3 id="Espacios">Espacios</h3>
 
 El laboratorio está abierto al público de 10 a 19 horas y es accesible cuando no hay alguna clase o evento programado. 
 
 El taller solo está abierto al público en el horario de disponibilidad del Staff en ese espacio. La llave del espacio, solo se entregará al staff autorizado o al profesor que será responsable del uso adecuado de dicho espacio.
  
-<h3>Profesores</h3>
+<h3 id="profesores">Profesores</h3>
 1- Los profesores deben realizar el correspoendiente seguimiento, en los procesos de modelado bidimensional o tridimensional, de modo que la persona encargada del FABLAB, simplemente asista en los conocimientos de puesta en marcha de la maquinaria y su coreecto funcionamiento.
 
 2- Los profesores deben ser conscientes del protocolo del FabLab, habiendo impartido la información necesaria, apoyada con la información de la pagina web relativa a los protocolos de impresión, para poder agilizar la labor y la correspondiente cola de espera de los porpios alumnos.
@@ -98,6 +101,20 @@ Los proyectos de final de grado que necesiten el uso del fablab, deben ser comun
 Los espacios tienen limite de aforo. 
 El laboratorio dispone de 36 asientos y 18 ordenadores. Los asientos son bancos de taller, siendo incomdos por tiempo prolongado
 El espacio taller es más limitado, permite trabajar comodamente con hasta 10 personas.
+
+
+<h3 id="precios">Precios del uso del Fablab</h3>
+
+<h4>Impresión 3D</h4>
+
+| Material | Estrategia | Espesor | Velocidad | Potencia | Potencia Corner | Pasadas | Observacion |
+| :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |  
+|Metacrilato|Corte|3 mm|35|95|90|1||
+|Metacrilato|Marcado|3 mm|100|10|6|1||
+|Metacrilato|Corte|4 mm|17|20|15|1||
+|Metacrilato|Marcado|4 mm|100|20|15|1||
+|Metacrilato|Corte|5 mm|17|95|90|1||
+|Metacrilato|Marcado|5 mm|100|10|6|1||
 
 
 <h2 id="contacto">Contacto</h2>
