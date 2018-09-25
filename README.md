@@ -107,19 +107,38 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 
 <h4>Impresión 3D</h4>
 
-| Máquina | Material | Precio * | Tiempo ** | Mínimos | ??  |
-| :---:  |   :---:  | :---:  | :---:  | :---:  | :---:  |  
-|Up|ABS|0.3 €/gr| 3 €/h | 1 €|||
-|Zortrax|ABS|0.4 €/gr| 3 €/h | 1 €|||
-|WASP 20/40|ABS|0.4 €/gr| 3 €/h |1 €|||
-|WASP 20/40|PLA|0.4 €/gr| 3 €/h |1 €|||
-|WASP 20/40|Arcilla|--| 4 €/h |1 €|||
-|WASP 3MT|PLA|0.4 €/gr| 2.5 €/h |1 €|||
-|WASP 3MT|Pellets|0.01 €/gr| 2.5 €/h |1 €|||
-|Form2+|ABS|0.8 €/gr| --- |3 €|||
+| Máquina | Material | Precio * | Tiempo ** | Mínimos | 
+| :---:  |   :---:  | :---:  | :---:  | :---:  |  
+|Up|ABS|0.3 €/gr| 3 €/h | 1 €|
+|Zortrax|ABS|0.4 €/gr| 3 €/h | 1 €|
+|WASP 20/40|ABS|0.4 €/gr| 3 €/h |1 €|
+|WASP 20/40|PLA|0.4 €/gr| 3 €/h |1 €|
+|WASP 20/40|Arcilla|--| 4 €/h |1 €|
+|WASP 3MT|PLA|0.4 €/gr| 2.5 €/h |1 €|
+|WASP 3MT|Pellets|0.01 €/gr| 2.5 €/h |1 €|
+|Form2+|Resina|0.2 €/cm^3| --- |3 €|
 
 * Precio de material más tiempo
+
 ** Precio de tiempo cuando el estudiante trae su material
+
+<h4>Corte Láser</h4>
+
+| Material |Característica| Dimensiones | Espesor | Precio | 
+| :---:  |   :---:  | :---:  | :---:  | 
+| Madera | DM | 600 x 500 mm^2 | 3 mm | | 
+| Madera | DM | 600 x 500 mm^2 | 3 mm | | 
+| Acrílico | Transparente | 600 x 500 mm^2 | 3 mm | | 
+
+El tiempo del uso del láser es de 8 €/h, (mínimo 2€)
+
+<h4>Corte Vinilo</h4>
+
+|Tipo  | Precio | 
+| :---:   | :---:  | 
+| Blanco o Negro | 3 €/m | 
+| Colores | 3 €/m | 
+| Plateado o Dorado | 4 €/m | 
 
 <h2 id="contacto">Contacto</h2>
 
