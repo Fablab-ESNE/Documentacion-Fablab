@@ -81,7 +81,7 @@ Importante: En el fablab no se realizan proyectos en el acto, los estudiantes de
 
 Los estudiantes tienen acceso a las impresoras Up, previa corroboración y aceptación de algún miembro del Fablab, del archivo que debe estar según las recomendaciones y normativa de la web.
 
-El acceso a las demás tecnologías está restringido al staff (otras impresoras, corte láser, corte vinilo, fresadoras). Los usuarios deben enviar el archivo al correo fablab@gmail.com. Este archivo será revisado según las recomendaciones de la web. Si el archivo se aprueba, se informa al estudiante el presupuesto  y cuándo podrá pasar a recogerlo (mínimo 1 día). Se ha de tener en cuenta que los correos son revisados 2 veces al día y que el tiempo utilizado para estos servicios oscilará entre 2 y 4 horas al día.
+El acceso a las demás tecnologías está restringido al staff (otras impresoras, corte láser, corte vinilo, fresadoras). Los usuarios deben enviar el archivo al correo fablab@esne.es. Este archivo será revisado según las recomendaciones de la web. Si el archivo se aprueba, se informa al estudiante el presupuesto  y cuándo podrá pasar a recogerlo (mínimo 1 día). Se ha de tener en cuenta que los correos son revisados 2 veces al día y que el tiempo utilizado para estos servicios oscilará entre 2 y 4 horas al día.
 
 En situaciones especiales los estudiantes pueden utilizar las tecnologías restringidas, cuando están en una clase para ese fin o cuando realicen un proyecto autorizado y estén capacitados para usar esa tecnología.
 
