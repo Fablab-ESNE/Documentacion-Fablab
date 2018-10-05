@@ -111,10 +111,10 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 
 | Máquina | Material | Precio<sup>1</sup> | Tiempo<sup>2</sup>| Mínimos | 
 | :---:  |   :---:  | :---:  | :---:  | :---:  |  
-|Up|ABS|0.1 €/gr| 1.2 €/h | 1 €|
-|Zortrax|ABS|0.12 €/gr| 1.5 €/h | 1 €|
-|WASP 20/40|ABS|0.12 €/gr| 1.5€/h |1 €|
-|WASP 20/40|PLA|0.12 €/gr| 1.5€/h |1 €|
+|Up|ABS|0.1 €/gr| 1.2 €/h | 0.5 €|
+|Zortrax|ABS|0.12 €/gr| 1.5 €/h | 0.6 €|
+|WASP 20/40|ABS|0.12 €/gr| 1.5€/h |0.6 €|
+|WASP 20/40|PLA|0.12 €/gr| 1.5€/h |0.6 €|
 |WASP 20/40|Arcilla|--| 3 €/h |1 €|
 |WASP 3MT|PLA|0.12 €/gr| 2.5 €/h |1 €|
 |WASP 3MT|Pellets|0.01 €/gr| 2.5 €/h |1 €|
