@@ -132,7 +132,7 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 | Madera | DM | 600 x 500 mm^2 | 3 mm | | 
 | Acrílico | Transparente | 600 x 500 mm^2 | 3 mm | | 
 
-El tiempo del uso del láser es de 8 €/h, (mínimo 2€)
+El tiempo del uso del láser es de 5 €/h, (mínimo 1€)
 
 <h4>Corte Vinilo</h4>
 
