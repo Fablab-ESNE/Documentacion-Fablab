@@ -109,20 +109,20 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 
 <h4>Impresión 3D</h4>
 
-| Máquina | Material | Precio * | Tiempo ** | Mínimos | 
+| Máquina | Material | Precio^1 | Tiempo^2| Mínimos | 
 | :---:  |   :---:  | :---:  | :---:  | :---:  |  
-|Up|ABS|0.3 €/gr| 3 €/h | 1 €|
-|Zortrax|ABS|0.4 €/gr| 3 €/h | 1 €|
-|WASP 20/40|ABS|0.4 €/gr| 3 €/h |1 €|
-|WASP 20/40|PLA|0.4 €/gr| 3 €/h |1 €|
-|WASP 20/40|Arcilla|--| 4 €/h |1 €|
-|WASP 3MT|PLA|0.4 €/gr| 2.5 €/h |1 €|
+|Up|ABS|0.1 €/gr| 1.2 €/h | 1 €|
+|Zortrax|ABS|0.12 €/gr| 1.5 €/h | 1 €|
+|WASP 20/40|ABS|0.12 €/gr| 1.5€/h |1 €|
+|WASP 20/40|PLA|0.12 €/gr| 1.5€/h |1 €|
+|WASP 20/40|Arcilla|--| 3 €/h |1 €|
+|WASP 3MT|PLA|0.12 €/gr| 2.5 €/h |1 €|
 |WASP 3MT|Pellets|0.01 €/gr| 2.5 €/h |1 €|
-|Form2+|Resina|0.2 €/cm^3| --- |3 €|
+|Form2+|Resina|0.2 €/mL-- |2€|
 
-* Precio de material más tiempo
+^1 Precio de material más tiempo
 
-** Precio de tiempo cuando el estudiante trae su material
+^2 Precio de tiempo cuando el estudiante trae su material
 
 <h4>Corte Láser</h4>
 
