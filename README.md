@@ -109,7 +109,7 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 
 <h4>Impresión 3D</h4>
 
-| Máquina | Material | Precio^1 | Tiempo^2| Mínimos | 
+| Máquina | Material | Precio<sup>1</sup> | Tiempo<sup>2</sup>| Mínimos | 
 | :---:  |   :---:  | :---:  | :---:  | :---:  |  
 |Up|ABS|0.1 €/gr| 1.2 €/h | 1 €|
 |Zortrax|ABS|0.12 €/gr| 1.5 €/h | 1 €|
@@ -120,9 +120,9 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 |WASP 3MT|Pellets|0.01 €/gr| 2.5 €/h |1 €|
 |Form2+|Resina|0.2 €/mL-- |2€|
 
-^1 Precio de material más tiempo
+<sup>1</sup> Precio de material más tiempo
 
-^2 Precio de tiempo cuando el estudiante trae su material
+<sup>2</sup> Precio de tiempo cuando el estudiante trae su material
 
 <h4>Corte Láser</h4>
 
