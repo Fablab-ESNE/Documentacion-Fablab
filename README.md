@@ -118,7 +118,7 @@ El espacio taller es más limitado, permite trabajar comodamente con hasta 10 pe
 |WASP 20/40|Arcilla|--| 3 €/h |1 €|
 |WASP 3MT|PLA|0.12 €/gr| 2.5 €/h |1 €|
 |WASP 3MT|Pellets|0.01 €/gr| 2.5 €/h |1 €|
-|Form2+|Resina|0.2 €/mL-- |2€|
+|Form2+|Resina|0.3 €/mL-- |2€|
 
 <sup>1</sup> Precio de material más tiempo
 
